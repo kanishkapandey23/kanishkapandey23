@@ -98,8 +98,8 @@ An AI-powered content discovery engine that helps surface relevant content using
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanishkapandey23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkapandey23&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=kanishkapandey23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kanishkapandey23&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </div>
 
 <div align="center">
