@@ -4,8 +4,8 @@
 
 <a href="https://kanishkapandey.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kanishkapandey23/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kanishkapandey2308@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:py.kanishka2308@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/kanishkapandey/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
@@ -88,7 +88,7 @@ An AI-powered content discovery engine that helps surface relevant content using
 ## Achievements
 
 - Top 100 nationwide, LinkedIn CoachIn Program 2026
-- First Prize, Future Makers category — LinkedIn Intra Hackathon
+- First Prize, Future Makers category - LinkedIn Intra Hackathon
 - Machine Learning Specialization, Stanford University & DeepLearning.AI (Coursera)
 - Junior MBA in Artificial Intelligence, Clever Harvey
 - 3rd Place, NSUT Webathon
